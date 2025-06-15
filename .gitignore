@@ -1,0 +1,43 @@
+# Node modules
+**/node_modules/
+
+# Environment files
+**/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build output
+client/dist/
+client/.vite/
+server/dist/
+
+# Dependency directories
+client/package-lock.json
+server/package-lock.json
+
+# Python cache and virtual environment
+ml-backend/__pycache__/
+ml-backend/*.pyc
+ml-backend/env/
+ml-backend/venv/
+
+# Jupyter Notebook checkpoints (if any)
+*.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE related
+.vscode/
+.idea/
+
+# PyInstaller
+ml-backend/build/
+ml-backend/dist/
+ml-backend/*.spec
+
+# Pickle files (optional if you regenerate them)
+ml-backend/*.pkl
