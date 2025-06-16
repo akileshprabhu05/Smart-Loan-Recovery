@@ -1,5 +1,5 @@
 🔍 AI-Powered Loan Recovery Strategy System
-
+ 
 This project is an AI-driven solution designed to help financial institutions optimize their loan recovery process. It analyzes borrower data—including loan amount, due date, risk level, and payment status—and intelligently recommends recovery strategies using a trained machine learning model.
 
 🚀 Features
